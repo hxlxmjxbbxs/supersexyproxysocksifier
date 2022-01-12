@@ -6,6 +6,7 @@
 ```
 This will set all the env variables based on your proxychains configuration
 At this point any command or tool (curl, gobuster, ffuf, nmap...) will be tunneled through the socks tunnel with no additional commandes.
+
 3. If you want to unsupersexyproxysocksify your session run:
 ```
 . ./supersexyproxysocksifier.sh unset
