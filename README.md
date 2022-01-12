@@ -1,0 +1,2 @@
+# supersexyproxysocksifier
+Proxysocksify your shell
